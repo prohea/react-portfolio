@@ -1,11 +1,12 @@
 import './App.css';
-import { Nav, About, Portfolio } from './components';
+import { Nav, About, Portfolio, Footer } from './components';
 
 const App = () => 
   <>
     <Nav />
     <About />
     <Portfolio />
+    <Footer />
     
   </>
 

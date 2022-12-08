@@ -1,0 +1,8 @@
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    background: repeating-linear-gradient(35deg,blue,black,gray);
+    color: white;
+}
